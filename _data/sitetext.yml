@@ -26,10 +26,10 @@ en: &DEFAULT_EN
         icon: fas fa-solid fa-cat #find more at https://fontawesome.com/icons
       - title: "윤기나는 털"
         desc: "털이 잘 빠지지만 부드럽다"
-        icon: fas fa-laptop
+        icon: fas fa-solid fa-bacon
       - title: "말랑한 젤리발바닥"
         desc: "자꾸 만지고 싶다."
-        icon: fab fa-markdown
+        icon: fas fa-solid fa-paw
 
   portfolio:
     title: "고양이사진"
@@ -38,14 +38,14 @@ en: &DEFAULT_EN
     closebutton: "사진닫기"
 
   about:
-    title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    title: "고양이 종류"
+    text: "서로 다른 매력들"
+    body: "1.먼치킨 2. 페르시안 · 3. 메인쿤 · 4. 샴 5. 렉돌 · 6. 스핑크스 · 7. 아비시니안 · 8. 벵골 "
     section: about
 
   contact:
     title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    text: ""
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
